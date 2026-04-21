@@ -7,7 +7,7 @@
       "name": "hekivo-premium",
       "description": "Hekivo Premium — 5 additional skills + 3 specialist agents. Requires hekivo-pro.",
       "version": "1.0.0",
-      "source": {"source": "github", "repo": "hekivo/hekivo-premium", "ref": "main"},
+      "source": "./",
       "author": {"name": "Hekivo", "url": "https://hekivo.com"}
     }
   ]
