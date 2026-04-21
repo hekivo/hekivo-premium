@@ -1,0 +1,10 @@
+{
+  "name": "hekivo-premium",
+  "description": "Hekivo Premium — review automation, performance profiling, refactoring, and visual verification. Overlay on hekivo-pro.",
+  "version": "1.0.0",
+  "hooks": "./hooks/cursor-hooks.json",
+  "author": {"name": "Hekivo", "url": "https://hekivo.com"},
+  "dependencies": [
+    { "name": "hekivo-pro", "version": "~1.0.0" }
+  ]
+}

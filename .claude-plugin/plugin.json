@@ -1,0 +1,14 @@
+{
+  "name": "hekivo-premium",
+  "description": "Hekivo Premium — review automation, performance profiling, refactoring, and visual verification. Overlay on hekivo-pro.",
+  "version": "1.0.0",
+  "author": {"name": "Hekivo", "url": "https://hekivo.com"},
+  "homepage": "https://hekivo.com/premium",
+  "repository": "https://github.com/hekivo/hekivo-premium",
+  "license": "commercial",
+  "tier": "premium",
+  "dependencies": [
+    { "name": "hekivo-pro", "version": "~1.0.0" }
+  ],
+  "keywords": ["wordpress","sage","acorn","lando","code-review","performance","refactoring","visual-verification"]
+}
